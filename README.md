@@ -1,2 +1,2 @@
-carbon-loadtest
-===============
+graphite-loadtest
+=================
